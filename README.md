@@ -2,6 +2,10 @@
 
 ADMIN DASHBOARD
 
+# Project Link
+
+https://madhavkolla.github.io/Admin-Dashboard/
+
 ### Prerequisites
 
 Basic knowledge of HTML, CSS, and bootstrap.
