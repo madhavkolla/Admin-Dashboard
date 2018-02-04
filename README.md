@@ -78,3 +78,10 @@ I just have to mention Dreamweaver because I don’t want you to fall in its evi
 End with an example of getting some data out of the system or using it for a little demo
 
 ## ADMIN DASHBOARD
+
+![screenshot 7](https://user-images.githubusercontent.com/19499440/35774291-b037564e-0930-11e8-96a5-ed256a695d86.png)
+
+## License
+
+This project is free to use with out any copyrights.
+
